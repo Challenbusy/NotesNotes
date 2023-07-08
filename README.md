@@ -16,6 +16,6 @@ git clone -b master git@github.com:Challenbusy/NotesNotes.git
 ```
 git add .
 git commit -m "fancy sayings to author"
-git push origi
+git push origin
 ```
 
